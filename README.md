@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Testing, Design & React
 - 💬 Ask me about whatever, always interested in researching new things
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: favourite place to visit was Skellig Michael (also known as Ahch-To)
 
 
 🏡 [website][website] **|** 
@@ -18,7 +18,7 @@
 [website]: https://krismac.com
 [twitter]: https://twitter.com/imkrismac
 [youtube]: https://www.youtube.com/c/KrisMcElhinney 
-[twitch]: hhttps://www.twitch.tv/imkrismac
+[twitch]: https://www.twitch.tv/imkrismac
 [instagram]: https://instagram.com/imkrismac
 [linkedin]: https://www.linkedin.com/in/krismac/
 [npm]: https://www.npmjs.com/~krismac
