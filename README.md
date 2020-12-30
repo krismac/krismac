@@ -1,4 +1,4 @@
-## Hi, I'm Kris 👋 I'm still learning to be an Engineer!
+## Hi, I'm Kris 👋 I'm learning more about being an Engineer every day!
 
 - 🔭 I’m currently working on JS/React websites for insurance customers
 - 🌱 I’m currently learning Testing, Design & React
